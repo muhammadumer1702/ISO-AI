@@ -1,0 +1,13 @@
+old_control_id,old_title,new_control_id,new_title,domain,description
+A.9.2.1,User registration and de-registration,A.5.16,Identity management,Organisational,Ensure all users are uniquely identified and their access lifecycle is properly managed
+A.9.2.2,User access provisioning,A.5.18,Access rights,Organisational,Ensure access rights are approved granted modified and removed based on business needs
+A.9.2.4,Management of secret authentication information,A.5.17,Authentication information,Organisational,Ensure passwords and authentication data are securely managed and protected
+A.9.4.2,Secure log-on procedures,A.8.5,Secure authentication,Technological,Ensure secure login mechanisms are implemented to prevent unauthorized access
+A.8.1.1,Inventory of assets,A.5.9,Inventory of information and associated assets,Organisational,Ensure information assets are identified documented and owned
+A.12.3.1,Information backup,A.8.13,Information backup,Technological,Ensure backups are taken regularly tested and protected against loss
+A.12.4.1,Event logging,A.8.15,Logging,Technological,Ensure system activities are logged monitored and reviewed
+A.12.6.1,Management of technical vulnerabilities,A.8.8,Management of technical vulnerabilities,Technological,Ensure vulnerabilities are identified assessed and remediated in a timely manner
+A.16.1.2,Reporting information security events,A.6.8,Information security event reporting,People,Ensure security incidents and events are reported through defined channels
+A.16.1.5,Response to information security incidents,A.5.26,Response to information security incidents,Organisational,Ensure incidents are responded to effectively using defined procedures
+A.11.1.2,Physical entry controls,A.7.2,Physical entry,Physical,Ensure physical access to facilities is restricted to authorized personnel
+A.15.1.1,Information security policy for supplier relationships,A.5.19,Information security in supplier relationships,Organisational,Ensure supplier access to information is controlled and secured

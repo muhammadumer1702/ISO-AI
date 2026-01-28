@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Reports (generated)
+iso-ai-backend/reports/*.html
+iso-ai-backend/reports/*.pdf
+
+# Virtual environments
+venv/
+.env/
