@@ -8,19 +8,19 @@ This tool is designed as a pre-audit readiness checker, not a certification auth
 
 🚀 Features
 
-📄 Upload policy documents (PDF)
+Upload policy documents (PDF)
 
-🔍 Extracts and analyzes policy text
+Extracts and analyzes policy text
 
-🤖 Uses OpenAI API for control-by-control assessment
+Uses OpenAI API for control-by-control assessment
 
-📊 Evaluates against selected ISO 27001 Annex A controls
+Evaluates against selected ISO 27001 Annex A controls
 
-🧾 Generates structured JSON results
+Generates structured JSON results
 
-🌐 Auto-generates HTML compliance report
+Auto-generates HTML compliance report
 
-📥 Exports full report as PDF
+Exports full report as PDF
 
 --------------------------------------------------------------------------------------
 
